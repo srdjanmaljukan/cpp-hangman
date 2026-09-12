@@ -1,0 +1,10 @@
+programiranje
+racunar
+tastatura
+algoritam
+promenljiva
+funkcija
+kompajler
+petlja
+niz
+pokazivac
